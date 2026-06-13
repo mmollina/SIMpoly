@@ -271,7 +271,7 @@ plot_map(MAPs[[1]], lg = 1, type = "genome")
 
 ## 🏆 **Acknowledgment**
 
-This package has been developed as part of the project [AFRI-Grant: A Genetics-Based Data Analysis System for Breeders in Polyploid Breeding Programs](https://portal.nifa.usda.gov/web/crisprojectpages/1027948-a-genetics-based-data-analysis-system-for-breeders-in-polyploid-breeding-programs.html) and  [SCRI-Grant: Tools for polyploids](https://www.polyploids.org/), funded by USDA NIFA.
+This package has been developed as part of the project [AFRI-Grant: A Genetics-Based Data Analysis System for Breeders in Polyploid Breeding Programs](https://app.dimensions.ai/details/grant/grant.9958948) and  [SCRI-Grant: Tools for polyploids](https://www.polyploids.org/), funded by USDA NIFA.
 
 
 <div class="horizontalgap" style="width:5px">
