@@ -272,15 +272,3 @@ plot_map(MAPs[[1]], lg = 1, type = "genome")
 ## 🏆 **Acknowledgment**
 
 This package has been developed as part of the project [AFRI-Grant: A Genetics-Based Data Analysis System for Breeders in Polyploid Breeding Programs](https://app.dimensions.ai/details/grant/grant.9958948) and  [SCRI-Grant: Tools for polyploids](https://www.polyploids.org/), funded by USDA NIFA.
-
-
-<div class="horizontalgap" style="width:5px">
-     <a id="USDA-NIFA" href="https://portal.nifa.usda.gov/web/crisprojectpages/1027948-a-genetics-based-data-analysis-system-for-breeders-in-polyploid-breeding-programs.html"><img src="nifa-color-lockup.png" width="650" alt=""/></a> 
-      <a id="NCSU" href="https://www.ncsu.edu/"><img src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red.png" width="150" alt=""/></a>
-    <span class="stretch"></span>
-</div>
-
-
----
-<sub>NC State University promotes equal opportunity and prohibits discrimination and harassment based upon one’s age, color, disability, gender identity, genetic information, national origin, race, religion, sex (including pregnancy), sexual orientation and veteran status.</sub>
-
